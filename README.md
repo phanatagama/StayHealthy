@@ -1,7 +1,7 @@
-![StayHealthy](https://socialify.git.ci/phanatagama/StayHealthy/image?description=1&descriptionEditable=%E2%9C%A8%20Build%20creative%20blog%20site%20with%20MVC%20and%20disqus%20service%20%E2%9C%A8&forks=1&issues=1&language=1&name=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+![StayHealthy](https://socialify.git.ci/phanatagama/StayHealthy/image?description=1&descriptionEditable=%E2%9C%A8%20Build%20creative%20blog%20site%20with%20MVC%20and%20disqus%20service%20%E2%9C%A8&forks=1&issues=1&language=1&name=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
