@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "phanatagama",
+      "name": "phanatagama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48324618?v=4",
+      "profile": "http://xnonymous.blogspot.com",
+      "contributions": [
+        "infra",
+        "design",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "StayHealthy",
+  "projectOwner": "phanatagama",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
