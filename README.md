@@ -1,10 +1,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![StayHealthy](https://socialify.git.ci/phanatagama/StayHealthy/image?description=1&descriptionEditable=%E2%9C%A8%20Build%20creative%20blog%20site%20with%20MVC%20and%20disqus%20service%20%E2%9C%A8&forks=1&issues=1&language=1&name=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -58,9 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/naufalzakly"><img src="https://avatars.githubusercontent.com/u/72109817?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Naufal Zakly Santoso</b></sub></a><br /><a href="https://github.com/phanatagama/StayHealthy/commits?author=naufalzakly" title="Code">💻</a></td>
-
     <td align="center"><a href="http://xnonymous.blogspot.com"><img src="https://avatars.githubusercontent.com/u/48324618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>phanatagama</b></sub></a><br /><a href="#infra-phanatagama" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-phanatagama" title="Design">🎨</a> <a href="https://github.com/phanatagama/StayHealthy/commits?author=phanatagama" title="Code">💻</a></td>
-
   </tr>
 </table>
 
