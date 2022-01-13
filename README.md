@@ -40,3 +40,4 @@ In developing this website we tried to learn to follow the model-view-controller
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphanatagama%2FStayHealthy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphanatagama%2FStayHealthy?ref=badge_large)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
